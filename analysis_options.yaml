@@ -1,4 +1,7 @@
 # Exclude this third-party package from analysis entirely
 analyzer:
   exclude:
+    # hides: 0 errors (measured 2026-09-18) — a vendored fork of an upstream
+    #   package. Upstream code is analysed upstream, and lint findings here could
+    #   only be acted on by diverging from the fork source.
     - "**"
