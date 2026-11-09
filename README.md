@@ -173,3 +173,12 @@ package, please feel free to open an issue or submit a pull request on the [GitH
 ## License
 This is an open-source package developed by the team at [Pieces for Developers](https://pieces.app) and is licensed under the [Apache License 2.0](./LICENSE).
 
+## Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability and
+fitness for a particular purpose. In no event shall the authors, copyright
+holders or contributors be liable for any claim, damages or other liability
+arising from, out of or in connection with the software or its use. This
+section summarises the warranty and liability disclaimer of the licence;
+the licence text in [LICENSE](LICENSE) governs.
